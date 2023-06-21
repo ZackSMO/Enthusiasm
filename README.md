@@ -6,3 +6,5 @@ I have been watching Crash Course Computer Science crash course, and it is reall
 The more I watch the Crash Course Computer Science series the more I get hooked and want to quickly jump into learning how to code.
 
 Still keeping it going!
+
+Today, I have completed the Crash Course Computer Science Series, and I'm excited to start Harvard's CS50 Introduction to Computer Science course Tomorrow.
