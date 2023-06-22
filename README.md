@@ -8,3 +8,5 @@ The more I watch the Crash Course Computer Science series the more I get hooked 
 Still keeping it going!
 
 Today, I have completed the Crash Course Computer Science Series, and I'm excited to start Harvard's CS50 Introduction to Computer Science course Tomorrow.
+
+I have started HarvardX's CS50's Introduction to Computer Science course.
