@@ -9,4 +9,4 @@ Still keeping it going!
 
 Today, I have completed the Crash Course Computer Science Series, and I'm excited to start Harvard's CS50 Introduction to Computer Science course Tomorrow.
 
-I have started HarvardX's CS50's Introduction to Computer Science course.
+I have started HarvardX's CS50's Introduction to Computer Science course. And I did it, I printed Hello, World!
