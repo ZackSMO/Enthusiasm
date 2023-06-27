@@ -12,3 +12,5 @@ Today, I have completed the Crash Course Computer Science Series, and I'm excite
 I have started HarvardX's CS50's Introduction to Computer Science course. And I did it, I printed Hello, World!
 
 Things are getting interesting now as I am learning C, and have written multiple codes that worked after a few trials. Which makes it exciting!
+
+I have learned a lot of things and I have just started!
