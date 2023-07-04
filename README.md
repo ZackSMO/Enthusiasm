@@ -14,3 +14,5 @@ I have started HarvardX's CS50's Introduction to Computer Science course. And I 
 Things are getting interesting now as I am learning C, and have written multiple codes that worked after a few trials. Which makes it exciting!
 
 I have learned a lot of things and I have just started!
+
+Falling into Tutorial hell ...
